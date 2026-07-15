@@ -1,82 +1,46 @@
 # Phase 1 — Electronics and Digital Systems
 
-Phase 1 builds the electronics and digital-systems foundation for the Super ecosystem.
+## Locked Execution Status
 
-It supports later work in:
+| Item | Status |
+|---|---|
+| Broad execution scope | 42 topics |
+| Completed | **14 / 42** |
+| Next topic | **Topic 15 — Source Transformation** |
+| Progress reset by GMP | No |
+| Phase sequence change | No |
 
-- Circuit analysis
-- Embedded systems
-- Hardware interfaces
-- FPGA systems
-- Signal processing
-- Industrial electronics
-- HFT hardware awareness
-- Digital logic
-- Computer architecture preparation
+The GMP overlay is prerequisite-gated and does not activate inside the current Phase 1 study sequence.
 
----
+## Purpose
 
-## Core Areas
+Build the electronics and digital-systems foundation for circuit analysis, embedded systems, hardware interfaces, FPGA systems, signal processing, industrial electronics, HFT hardware awareness, digital logic and computer architecture.
 
-Phase 1 covers:
+## Completed Through Topic 14
 
-- Electric charge
-- Current
-- Voltage
-- Resistance
-- Ohm’s Law
-- Electrical power
-- Ideal and practical sources
-- Ground and reference nodes
-- Series and parallel circuits
-- Voltage division
-- Current division
-- Kirchhoff’s laws
-- Nodal analysis
-- Mesh analysis
-- Thevenin and Norton equivalents
-- Transient response
-- AC analysis
-- Diodes
-- Transistors
-- Operational amplifiers
-- Digital logic
-- Flip-flops
-- Counters
-- Registers
-- ADC/DAC basics
+1. Electric charge and circuit foundations
+2. Current
+3. Voltage
+4. Resistance
+5. Ohm’s Law
+6. Electrical power
+7. Voltage and current sources
+8. Ground and reference nodes
+9. Series and parallel resistor networks
+10. Voltage division and current division
+11. Kirchhoff’s Current Law and Kirchhoff’s Voltage Law
+12. Nodal Analysis
+13. Mesh and Loop Analysis
+14. Superposition Theorem
 
----
+## Next Topic
 
-## Expected Project Directions
+**15. Source Transformation**
 
-Phase 1 can produce projects such as:
+## Remaining Broad Direction
 
-- Circuit calculation toolkit
-- Resistor-network solver
-- Voltage/current divider simulator
-- Nodal analysis solver
-- Mesh analysis solver
-- Transient response simulator
-- AC analysis utility
-- Logic-gate simulator
-- Digital-circuit experiment suite
-- LTSpice-linked learning notes
-- Embedded-system preparation tools
-
----
+The remaining phase continues through network theorems, capacitors, inductors, transient response, AC/phasors/RLC, transformers, semiconductor devices, diodes, BJTs, MOSFETs, op-amps, number systems, Boolean logic, combinational logic, sequential logic and finite-state machines.
 
 ## Project Standard
 
-Any serious Phase 1 project should follow the Phase 0 Toolkit Standard.
-
-That means:
-
-- Clean repository
-- README
-- Tests
-- Documentation
-- Examples
-- Architecture notes where useful
-- GitHub-ready structure
-- Final verification before locking
+The eventual Phase 1 project must be clean, tested, documented, reproducible, GitHub-ready and followed by the required comprehensive Phase Completion Learning-and-Project Archive.
